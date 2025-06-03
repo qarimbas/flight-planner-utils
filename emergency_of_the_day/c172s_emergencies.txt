@@ -17,7 +17,7 @@ RED X - HORIZONTAL SITUATION INDICATOR (HSI)
 1. ADC/AHRS Circuit Breakers - CHECK IN (ESS BUS and AVN BUS 1).
 If open, reset (close) circuit breaker. If circuit breaker opens again, do not reset.
 2. Non-Stabilized Magnetic Compass - USE FOR HEADING INFORMATION
-
+---
 2
 ENGINE FAILURE DURING TAKEOFF ROLL
 
@@ -28,7 +28,7 @@ ENGINE FAILURE DURING TAKEOFF ROLL
 5. MAGNETOS Switch - OFF
 6. STBY BATT Switch - OFF
 7. MASTER Switch (ALT and BAT) - OFF
-
+---
 3
 ENGINE FAILURE IMMEDIATELY AFTER TAKEOFF
 
@@ -42,7 +42,7 @@ ENGINE FAILURE IMMEDIATELY AFTER TAKEOFF
 7. MASTER Switch (ALT and BAT) - OFF
 8. Cabin Door - UNLATCH
 9. Land - STRAIGHT AHEAD
-
+---
 4
 EMERGENCY LANDING WITHOUT ENGINE POWER
 
@@ -59,7 +59,7 @@ EMERGENCY LANDING WITHOUT ENGINE POWER
 10. Doors - UNLATCH PRIOR TO TOUCHDOWN
 11. Touchdown - SLIGHTLY TAIL LOW
 12. Brakes - APPLY HEAVILY
-
+---
 5
 ENGINE FAILURE DURING FLIGHT (RESTART PROCEDURES)
 
@@ -77,7 +77,7 @@ and lean the mixture from full rich as required to obtain smooth operation.
 NOTE
 If the indicated fuel flow (FFLOW GPH) immediately drops to zero, a sign of failure of the engine-driven
 fuel pump, return the FUEL PUMP switch to the ON position.
-
+---
 6
 IDLE POWER ENGINE ROUGHNESS
 
@@ -88,7 +88,7 @@ you should rotate the vernier mixture control (leaning of fuel mixture). You may
 low engine speed results in power loss and you need to restart the engine during flight. In all cases, you should land
 the airplane at the nearest airport for repairs if low speed engine roughness requires you to adjust the fuel mixture
 control to improve engine operation.
-
+---
 7
 ENGINE-DRIVEN FUEL PUMP FAILURE
 
@@ -98,7 +98,7 @@ immediately before a loss of power while operating from a fuel tank containing a
 en fuel pump fails, immediately set the FUEL PUMP switch to the ON position to restore the engine power. The flight
 
 should be terminated as soon as practical and the engine-driven fuel pump repaired.
-
+---
 8
 ENGINE FIRE IN FLIGHT
 
@@ -112,7 +112,7 @@ ENGINE FIRE IN FLIGHT
 (If fire is not extinguished, increase glide speed to find an airspeed, within airspeed limitations, which will provide
 an incombustible mixture)
 8. Forced Landing - EXECUTE (refer to EMERGENCY LANDING WITHOUT ENGINE POWER)
-
+---
 9
 SPARK PLUG FOULING
 
@@ -123,7 +123,7 @@ are the more likely cause, lean the mixture to the recommended lean setting for 
 not clear up in several minutes, determine if a richer mixture setting will produce smoother operation. If not, proceed
 to the nearest airport for repairs using the BOTH position of the MAGNETOS switch unless extreme roughness
 makes the use of a single MAGNETO position necessary.
-
+---
 10
 LOW OIL PRESSURE
 
@@ -134,7 +134,7 @@ or relief valve is malfunctioning. Land at the nearest airport to determine the 
 If a total loss of oil pressure and a rise in oil temperature occur at about the same time, it could mean that the engine
 is about to fail. Reduce power immediately and select a field suitable for a forced landing. Use only the minimum
 power necessary to reach the landing site.
-
+---
 11
 STATIC SOURCE BLOCKAGE (ERRONEOUS INSTRUMENT READING SUSPECTED)
 
@@ -142,7 +142,7 @@ STATIC SOURCE BLOCKAGE (ERRONEOUS INSTRUMENT READING SUSPECTED)
 2. Cabin Vents - CLOSED
 3. CABIN HT and CABIN AIR Control Knobs - ON (pull full out)
 4. Airspeed - Refer to Section 5, Figure 5-1 (Sheet 2) Airspeed Calibration, Alternate Static Source correction chart.
-
+---
 12
 WING FIRE
 
@@ -154,7 +154,7 @@ NOTE
 Perform a sideslip to keep the flames away from the fuel
 tank and cabin. Land as soon as possible using flaps only
 as required for final approach and touchdown.
-
+---
 13
 EXCESSIVE FUEL VAPOR
 
@@ -163,7 +163,7 @@ FUEL FLOW STABILIZATION PROCEDURES (If flow fluctuations of 1 GPH or more, or po
 2. Mixture Control - ADJUST (as necessary for smooth engine operation)
 3. Fuel Selector Valve - SELECT OPPOSITE TANK (if vapor symptoms continue)
 4. FUEL PUMP Switch - OFF (after fuel flow has stabilized)
-
+---
 14
 LOW VOLTS ANNUNCIATOR COMES ON BELOW 1000 RPM
 
@@ -171,7 +171,7 @@ LOW VOLTS ANNUNCIATOR COMES ON BELOW 1000 RPM
 2. LOW VOLTS Annunciator - CHECK OFF
 LOW VOLTS ANNUNCIATOR REMAINS ON AT 1000 RPM
 3. Authorized maintenance personnel must do electrical system inspection prior to next flight.
-
+---
 15
 DISPLAY COOLING ADVISORY
 
@@ -183,7 +183,7 @@ IF FORWARD AVIONICS FAN HAS FAILED
 IF PFD1 COOLING OR MFD1 COOLING ANNUNCIATOR DOES NOT GO OFF WITHIN 3 MINUTES OR IF
 BOTH PFD1 COOLING AND MFD1 COOLING ANNUNCIATORS COME ON
 4. STBY BATT Switch - OFF (land as soon as practical)
-
+---
 16
 LOW VOLTS ANNUNCIATOR COMES ON OR DOES NOT GO OFF AT HIGHER RPM
 
@@ -224,7 +224,7 @@ Autopilot, Audio Panel, COMM 2, NAV 2, Transponder, MFD
 NOTE
 Make sure a successful landing is possible before extending flaps. The flap motor is a large electrical
 load during operation.
-
+---
 17
 HIGH VOLTS ANNUNCIATOR COMES ON OR M BAT AMPS MORE THAN 40
 
@@ -259,7 +259,7 @@ Autopilot, Audio Panel, COMM 2, NAV 2, Transponder, MFD
 NOTE
 Make sure a successful landing is possible before extending flaps. The flap motor is a large electrical
 load during operation.
-
+---
 18
 MAGNETO MALFUNCTION
 
@@ -274,7 +274,7 @@ two additional times, followed by a ten minute cool down period before resuming 
 erate the starter motor again, three cycles of 10 seconds followed by 20 seconds of cool down. If the engine still
 
 does not start, try to find the cause.
-
+---
 19
 ENGINE FIRE - DURING START ON GROUND
 
@@ -299,7 +299,7 @@ IF ENGINE FAILS TO START
 
 15. Fire Damage - INSPECT (repair or replace damaged components and/or wiring before conducting anoth-
 er flight)
-
+---
 20
 ENGINE FAILURE DURING TAKEOFF ROLL
 
@@ -310,7 +310,7 @@ ENGINE FAILURE DURING TAKEOFF ROLL
 5. MAGNETOS Switch - OFF
 6. STBY BATT Switch - OFF
 7. MASTER Switch (ALT and BAT) - OFF
-
+---
 21
 ENGINE FIRE IN FLIGHT
 
@@ -363,7 +363,7 @@ WARNING
 
 AFTER THE FIRE EXTINGUISHER HAS BEEN USED, MAKE SURE THAT THE FIRE IS EXTIN-
 GUISHED BEFORE EXTERIOR AIR IS USED TO REMOVE SMOKE FROM THE CABIN.
-
+---
 22
 DITCHING
 
@@ -385,7 +385,7 @@ Light Winds, Heavy Swells - PARALLEL TO SWELLS
 NOTE
 If necessary, open window and flood cabin to equalize pressure so doors can be opened.
 13. Life Vests and Raft - INFLATE WHEN CLEAR OF AIRPLANE
-
+---
 23
 EMERGENCY LANDING WITHOUT ENGINE POWER
 
@@ -402,7 +402,7 @@ Flaps UP 65 KIAS - Flaps 10° - FULL
 10. Doors - UNLATCH PRIOR TO TOUCHDOWN
 11. Touchdown - SLIGHTLY TAIL LOW
 12. Brakes - APPLY HEAVILY
-
+---
 23
 PRECAUTIONARY LANDING WITH ENGINE POWER
 
@@ -420,7 +420,7 @@ PRECAUTIONARY LANDING WITH ENGINE POWER
 12. Mixture Control - IDLE CUTOFF (pull full out)
 13. MAGNETOS Switch - OFF
 14. Brakes - APPLY HEAVILY
-
+---
 24
 LANDING WITH A FLAT MAIN TIRE
 
@@ -437,7 +437,7 @@ power. During the landing flare (round-out), the nose will come down when power 
 may touch down on the nose wheel before the main wheels. When in the flare, the elevator trim control should be
 adjusted toward the full nose up position and the power adjusted at the same time so that the airplane will rotate
 to a horizontal attitude for touchdown. Close the throttle at touchdown.
-
+---
 25
 LANDING WITH A FLAT NOSE TIRE
 
@@ -447,7 +447,7 @@ LANDING WITH A FLAT NOSE TIRE
 Below 85 KIAS - Flaps 10° - FULL
 3. Touchdown - ON MAINS (hold nosewheel off the ground as long as possible)
 4. When nosewheel touches down, maintain full up elevator as airplane slows to stop.
-
+---
 26
 SPINS
 
@@ -468,7 +468,7 @@ at the top of the HSI compass card will show the rate and direction of the turn.
 will rotate in the opposite direction. Hold opposite rudder to the turn vector direction.
 For additional information on spins and spin recovery, see the discussion under SPINS in Normal Procedures,
 Section 4.
-
+---
 27
 HIGH CARBON MONOXIDE (CO) LEVEL ANNUNCIATOR
 
@@ -479,7 +479,7 @@ CO LVL HIGH ANNUNCIATOR COMES ON
 4. Cabin Windows - OPEN (163 KIAS maximum windows open speed)
 CO LVL HIGH ANNUNCIATOR REMAINS ON
 5. Land as soon as practical.
-
+---
 28
 INADVERTENT ICING ENCOUNTER DURING FLIGHT
 
@@ -503,7 +503,7 @@ approach.
 12. Approach at 65 to 75 KIAS depending upon the amount of ice accumulation.
 13. Perform landing in level attitude.
 14. Missed approaches should be avoided whenever possible because of severely reduced climb capability.
-
+---
 29
 ENTRANCE DOORS AND CABIN WINDOWS (CHAPTER 7)
 
@@ -534,7 +534,7 @@ detent equipped latch on the lower edge of the window frame. To open the windows
 window is equipped with a spring-loaded retaining arm which will help rotate the window outward, and hold it
 there. If required, either window may be opened at any speed up to 163 KIAS. The rear side windows and rear
 windows are of the fixed type and cannot be opened.
-
+---
 30
 BALKED LANDING
 
@@ -549,7 +549,7 @@ climb, reduce the wing flap setting to 10° and maintain a safe airspeed until t
 are cleared. Above 3000 feet pressure altitude, lean the mixture to obtain maximum RPM.
 After clearing any obstacles, carefully retract the flaps and allow the airplane to accelerate
 to normal climb airspeed.
-
+---
 31
 WINDSHIELD DAMAGE
 

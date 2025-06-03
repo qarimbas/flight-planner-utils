@@ -18,7 +18,7 @@ def get_emergency_checklist(emergency_title, checklist_file_path):
                 continue
             
             if found_title:
-                if line.strip() == "":  # Stop when an empty line is encountered
+                if line.strip() == "---":  # Stop when the separator is encountered
                     break
                 checklist.append(line.strip())  # Add checklist items
         
