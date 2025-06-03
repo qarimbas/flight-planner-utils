@@ -1,8 +1,11 @@
 import datetime
 
-def find_emergency(aircraft_type):
+def find_emergency(aircraft_type, file_path='./emergency_of_the_day/emergencies.txt'):
+    """
+    Find today's emergency for the specified aircraft type from the given file.
+    """
     try:
-        with open('./emergency_of_the_day/emergencies.txt', 'r') as file:
+        with open(file_path, 'r') as file:
             emergencies = file.readlines()
         
         # Get today's day number (1-based index)
@@ -33,7 +36,7 @@ def find_emergency(aircraft_type):
         
         return "No emergency found for today's date."
     except FileNotFoundError:
-        return "The emergencies.txt file was not found."
+        return f"The file {file_path} was not found."
     except Exception as e:
         return f"An error occurred: {e}"
 

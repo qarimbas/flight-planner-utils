@@ -1,0 +1,571 @@
+1
+AIR DATA SYSTEM FAILURE AND ATTITUDE AND HEADING REFERENCE SYSTEM (AHRS) FAILURE
+
+RED X - PFD AIRSPEED INDICATOR
+1.ADC/AHRS Circuit Breakers - CHECK IN (ESS BUS and AVN BUS 1).
+If open, reset (close) circuit breaker. If circuit breaker opens again, do not reset.
+2. Standby Airspeed Indicator - USE FOR AIRSPEED INFORMATION
+RED X - PFD ALTITUDE INDICATOR
+1. ADC/AHRS Circuit Breakers - CHECK IN (ESS BUS and AVN BUS 1).
+If open, reset (close) circuit breaker. If circuit breaker opens again, do not reset.
+2. Standby Altimeter - CHECK current barometric pressure SET. USE FOR ALTITUDE INFORMATION.
+RED X - PFD ATTITUDE INDICATOR
+1. ADC/AHRS Circuit Breakers - CHECK IN (ESS BUS and AVN BUS 1).
+If open, reset (close) circuit breaker. If circuit breaker opens again, do not reset.
+2. Standby Attitude Indicator - USE FOR ATTITUDE INFORMATION
+RED X - HORIZONTAL SITUATION INDICATOR (HSI)
+1. ADC/AHRS Circuit Breakers - CHECK IN (ESS BUS and AVN BUS 1).
+If open, reset (close) circuit breaker. If circuit breaker opens again, do not reset.
+2. Non-Stabilized Magnetic Compass - USE FOR HEADING INFORMATION
+
+2
+ENGINE FAILURE DURING TAKEOFF ROLL
+
+1. Throttle Control - IDLE (pull full out)
+2. Brakes - APPLY
+3. Wing Flaps - RETRACT
+4. Mixture Control - IDLE CUTOFF (pull full out)
+5. MAGNETOS Switch - OFF
+6. STBY BATT Switch - OFF
+7. MASTER Switch (ALT and BAT) - OFF
+
+3
+ENGINE FAILURE IMMEDIATELY AFTER TAKEOFF
+
+1. Airspeed - 70 KIAS - Flaps UP
+65 KIAS - Flaps 10° - FULL
+2. Mixture Control - IDLE CUTOFF (pull full out)
+3. FUEL SHUTOFF Valve - OFF (pull full out)
+4. MAGNETOS Switch - OFF
+5. Wing Flaps - AS REQUIRED (FULL recommended)
+6. STBY BATT Switch - OFF
+7. MASTER Switch (ALT and BAT) - OFF
+8. Cabin Door - UNLATCH
+9. Land - STRAIGHT AHEAD
+
+4
+EMERGENCY LANDING WITHOUT ENGINE POWER
+
+1. Pilot and Passenger Seat Backs - MOST UPRIGHT POSITION
+2. Seats and Seat Belts - SECURE
+3. Airspeed - 70 KIAS - Flaps UP
+65 KIAS - Flaps 10° - FULL
+4. Mixture Control - IDLE CUTOFF (pull full out)
+5. FUEL SHUTOFF Valve - OFF (pull full out)
+6. MAGNETOS Switch - OFF
+7. Wing Flaps - AS REQUIRED (FULL recommended)
+8. STBY BATT Switch - OFF
+9. MASTER Switch (ALT and BAT) - OFF (when landing is assured)
+10. Doors - UNLATCH PRIOR TO TOUCHDOWN
+11. Touchdown - SLIGHTLY TAIL LOW
+12. Brakes - APPLY HEAVILY
+
+5
+ENGINE FAILURE DURING FLIGHT (RESTART PROCEDURES)
+
+1. Airspeed - 68 KIAS (best glide speed)
+2. FUEL SHUTOFF Valve - ON (push full in)
+3. FUEL SELECTOR Valve - BOTH
+4. FUEL PUMP Switch - ON
+5. Mixture Control - RICH (if restart has not occurred)
+6. MAGNETOS Switch - BOTH (or START if propeller is stopped)
+7. FUEL PUMP Switch - OFF
+NOTE
+If the propeller is windmilling, engine will restart automatically within a few seconds. If propeller has
+stopped (possible at low speeds), turn MAGNETOS switch to START, advance throttle slowly from idle
+and lean the mixture from full rich as required to obtain smooth operation.
+NOTE
+If the indicated fuel flow (FFLOW GPH) immediately drops to zero, a sign of failure of the engine-driven
+fuel pump, return the FUEL PUMP switch to the ON position.
+
+6
+IDLE POWER ENGINE ROUGHNESS
+
+An excessively rich idle fuel flow may cause low speed engine roughness during flight. During most in-flight low engine
+speeds (power off stalls, approach to landing, etc.), the mixture control is normally in the full-rich position. However,
+to improve engine roughness (caused by an improperly adjusted fuel servo) during low engine speeds while in flight,
+you should rotate the vernier mixture control (leaning of fuel mixture). You may also have to lean the fuel mixture if this
+low engine speed results in power loss and you need to restart the engine during flight. In all cases, you should land
+the airplane at the nearest airport for repairs if low speed engine roughness requires you to adjust the fuel mixture
+control to improve engine operation.
+
+7
+ENGINE-DRIVEN FUEL PUMP FAILURE
+
+Failure of the engine-driven fuel pump will be shown by a sudden reduction in the fuel flow indication (FFLOW GPH)
+
+immediately before a loss of power while operating from a fuel tank containing adequate fuel. If the engine-driv-
+en fuel pump fails, immediately set the FUEL PUMP switch to the ON position to restore the engine power. The flight
+
+should be terminated as soon as practical and the engine-driven fuel pump repaired.
+
+8
+ENGINE FIRE IN FLIGHT
+
+1. Mixture Control - IDLE CUTOFF (pull full out)
+2. FUEL SHUTOFF Valve - OFF (pull full out)
+3. FUEL PUMP Switch - OFF
+4. MASTER Switch (ALT and BAT) - OFF
+5. Cabin Vents - OPEN (as needed)
+6. CABIN HT and CABIN AIR Control Knobs - OFF (push full in) (to avoid drafts)
+7. Airspeed - 100 KIAS
+(If fire is not extinguished, increase glide speed to find an airspeed, within airspeed limitations, which will provide
+an incombustible mixture)
+8. Forced Landing - EXECUTE (refer to EMERGENCY LANDING WITHOUT ENGINE POWER)
+
+9
+SPARK PLUG FOULING
+
+A slight engine roughness in flight may be caused by one or more spark plugs becoming fouled by carbon or lead
+deposits. This may be verified by turning the MAGNETOS switch momentarily from BOTH to either L or R position.
+An obvious power loss in single magneto operation is evidence of spark plug or magneto trouble. Since spark plugs
+are the more likely cause, lean the mixture to the recommended lean setting for cruising flight. If the problem does
+not clear up in several minutes, determine if a richer mixture setting will produce smoother operation. If not, proceed
+to the nearest airport for repairs using the BOTH position of the MAGNETOS switch unless extreme roughness
+makes the use of a single MAGNETO position necessary.
+
+10
+LOW OIL PRESSURE
+
+If the low oil pressure annunciator (OIL PRESS) comes on, check the oil pressure indicator (OIL PRES on ENGINE
+page or OIL PSI on SYSTEM page) to confirm low oil pressure condition. If oil pressure and oil temperature (OIL
+TEMP on ENGINE page or OIL °F on SYSTEM page) remain normal, it is possible that the oil pressure sending unit
+or relief valve is malfunctioning. Land at the nearest airport to determine the source of the problem.
+If a total loss of oil pressure and a rise in oil temperature occur at about the same time, it could mean that the engine
+is about to fail. Reduce power immediately and select a field suitable for a forced landing. Use only the minimum
+power necessary to reach the landing site.
+
+11
+STATIC SOURCE BLOCKAGE (ERRONEOUS INSTRUMENT READING SUSPECTED)
+
+1. ALT STATIC AIR Valve - ON (pull full out)
+2. Cabin Vents - CLOSED
+3. CABIN HT and CABIN AIR Control Knobs - ON (pull full out)
+4. Airspeed - Refer to Section 5, Figure 5-1 (Sheet 2) Airspeed Calibration, Alternate Static Source correction chart.
+
+12
+WING FIRE
+
+1. LAND and TAXI Light Switches - OFF
+2. NAV Light Switch - OFF
+3. STROBE Light Switch - OFF
+4. PITOT HEAT Switch - OFF
+NOTE
+Perform a sideslip to keep the flames away from the fuel
+tank and cabin. Land as soon as possible using flaps only
+as required for final approach and touchdown.
+
+13
+EXCESSIVE FUEL VAPOR
+
+FUEL FLOW STABILIZATION PROCEDURES (If flow fluctuations of 1 GPH or more, or power surges occur.)
+1. FUEL PUMP Switch - ON
+2. Mixture Control - ADJUST (as necessary for smooth engine operation)
+3. Fuel Selector Valve - SELECT OPPOSITE TANK (if vapor symptoms continue)
+4. FUEL PUMP Switch - OFF (after fuel flow has stabilized)
+
+14
+LOW VOLTS ANNUNCIATOR COMES ON BELOW 1000 RPM
+
+1. Throttle Control - 1000 RPM
+2. LOW VOLTS Annunciator - CHECK OFF
+LOW VOLTS ANNUNCIATOR REMAINS ON AT 1000 RPM
+3. Authorized maintenance personnel must do electrical system inspection prior to next flight.
+
+15
+DISPLAY COOLING ADVISORY
+
+PFD1 COOLING OR MFD1 COOLING ANNUNCIATOR(S) COME ON
+1. CABIN HT Control Knob - REDUCE (push in) (minimum preferred)
+2. Forward Avionics Fan - CHECK (feel for airflow from screen on glareshield)
+IF FORWARD AVIONICS FAN HAS FAILED
+3. STBY BATT Switch - OFF (unless needed for emergency power)
+IF PFD1 COOLING OR MFD1 COOLING ANNUNCIATOR DOES NOT GO OFF WITHIN 3 MINUTES OR IF
+BOTH PFD1 COOLING AND MFD1 COOLING ANNUNCIATORS COME ON
+4. STBY BATT Switch - OFF (land as soon as practical)
+
+16
+LOW VOLTS ANNUNCIATOR COMES ON OR DOES NOT GO OFF AT HIGHER RPM
+
+1. MASTER Switch (ALT Only) - OFF
+2. ALT FIELD Circuit Breaker - CHECK IN
+3. MASTER Switch (ALT and BAT) - ON
+4. LOW VOLTS Annunciator - CHECK OFF
+5. M BUS VOLTS - CHECK 27.5 V (minimum)
+6. M BATT AMPS - CHECK CHARGING (+)
+IF LOW VOLTS ANNUNCIATOR REMAINS ON
+7. MASTER Switch (ALT Only) - OFF
+8. Electrical Load - REDUCE IMMEDIATELY as follows:
+a. AVIONICS Switch (BUS 1) - OFF
+b. PITOT HEAT Switch - OFF
+c. BEACON Light Switch - OFF
+d. LAND Light Switch - OFF (use as required for landing)
+e. TAXI Light Switch - OFF
+f. NAV Light Switch - OFF
+g. STROBE Light Switch - OFF
+h. CABIN PWR 12V Switch - OFF
+i. COM1 and NAV1 - TUNE TO ACTIVE FREQUENCY
+j. COM1 MIC and NAV1 - SELECT (COM2 MIC and NAV2 will be inoperative once AVIONICS BUS 2 is
+selected to OFF)
+k. AVIONICS Switch (BUS 2) - OFF (KEEP ON if in clouds)
+9. Land as soon as practical.
+NOTE
+The main battery supplies electrical power to the main and essential buses until M BUS VOLTS decreases
+below 20 volts. When M BUS VOLTS falls below 20 volts, the standby battery system will automatically
+supply electrical power to the essential bus for at least 30 minutes.
+
+Select COM1 MIC and NAV1 on the audio panel and tune to the active frequency before setting AVI-
+ONICS BUS 2 to OFF. If COM2 MIC and NAV2 are selected when AVIONICS BUS 2 is set to OFF,
+
+the COM and NAV radios cannot be tuned.
+NOTE
+When AVIONICS BUS 2 is set to OFF, the following items will not operate:
+Autopilot, Audio Panel, COMM 2, NAV 2, Transponder, MFD
+NOTE
+Make sure a successful landing is possible before extending flaps. The flap motor is a large electrical
+load during operation.
+
+17
+HIGH VOLTS ANNUNCIATOR COMES ON OR M BAT AMPS MORE THAN 40
+
+1. MASTER Switch (ALT Only) - OFF
+2. Electrical Load - REDUCE IMMEDIATELY as follows
+a. AVIONICS Switch (BUS 1) - OFF
+b. PITOT HEAT Switch - OFF
+c. BEACON Light Switch - OFF
+d. LAND Light Switch - OFF (use as required for landing)
+e. TAXI Light Switch - OFF
+f. NAV Light Switch - OFF
+g. STROBE Light Switch - OFF
+h. CABIN PWR 12V Switch – OFF
+i. COM1 and NAV1 - TUNE TO ACTIVE FREQUENCY
+j. COM1 MIC and NAV1 - SELECT (COM2 MIC and NAV2 will be inoperative once AVIONICS BUS 2 is
+selected to OFF)
+k. AVIONICS Switch (BUS 2) - OFF (KEEP ON if in clouds)
+3. Land as soon as practical.
+NOTE
+
+The main battery supplies electrical power to the main and essential buses until M BUS VOLTS decreas-
+es below 20 volts. When M BUS VOLTS falls below 20 volts, the standby battery system will automati-
+cally supply electrical power to the essential bus for at least 30 minutes.
+
+Select COM1 MIC and NAV1 on the audio panel and tune to the active frequency before setting AVI-
+ONICS BUS 2 to OFF. If COM2 MIC and NAV2 are selected when AVIONICS BUS 2 is set to OFF,
+
+the COM and NAV radios cannot be tuned.
+NOTE
+When AVIONICS BUS 2 is set to OFF, the following items will not operate:
+Autopilot, Audio Panel, COMM 2, NAV 2, Transponder, MFD
+NOTE
+Make sure a successful landing is possible before extending flaps. The flap motor is a large electrical
+load during operation.
+
+18
+MAGNETO MALFUNCTION
+
+Sudden engine roughness or misfiring is usually a sign of a magneto problem. Changing the MAGNETOS switch
+from BOTH to the L and R switch positions will identify which magneto is malfunctioning. Select different power
+settings and enrichen the mixture to determine if continued operation on BOTH magnetos is possible. If not, change
+to the good magneto and continue to the nearest airport for repairs.
+RECOMMENDED STARTER DUTY CYCLE
+Operate the starter motor for 10 seconds followed by a 20 second cool down period. This cycle can be repeated
+
+two additional times, followed by a ten minute cool down period before resuming cranking. After cool down, op-
+erate the starter motor again, three cycles of 10 seconds followed by 20 seconds of cool down. If the engine still
+
+does not start, try to find the cause.
+
+19
+ENGINE FIRE - DURING START ON GROUND
+
+1. MAGNETOS Switch - START (continue cranking to start the engine)
+IF ENGINE STARTS
+2. Power - 1800 RPM (for a few minutes)
+3. Engine - SHUTDOWN (inspect for damage)
+IF ENGINE FAILS TO START
+2. Throttle Control - FULL (push full in)
+3. Mixture Control - IDLE CUTOFF (pull full out)
+4. MAGNETOS Switch - START (continue cranking)
+5. FUEL SHUTOFF Valve - OFF (pull full out)
+6. FUEL PUMP Switch - OFF
+7. MAGNETOS Switch - OFF
+8. STBY BATT Switch - OFF
+9. MASTER Switch (ALT and BAT) – OFF
+10. Engine - SECURE
+11. Parking Brake - RELEASE
+12. Fire Extinguisher - OBTAIN (have ground attendants obtain if not installed)
+13. Airplane – EVACUATE
+14. Fire - EXTINGUISH (using fire extinguisher, wool blanket, or dirt)
+
+15. Fire Damage - INSPECT (repair or replace damaged components and/or wiring before conducting anoth-
+er flight)
+
+20
+ENGINE FAILURE DURING TAKEOFF ROLL
+
+1. Throttle Control - IDLE (pull full out)
+2. Brakes - APPLY
+3. Wing Flaps - RETRACT
+4. Mixture Control - IDLE CUTOFF (pull full out)
+5. MAGNETOS Switch - OFF
+6. STBY BATT Switch - OFF
+7. MASTER Switch (ALT and BAT) - OFF
+
+21
+ENGINE FIRE IN FLIGHT
+
+1. Mixture Control - IDLE CUTOFF (pull full out)
+2. FUEL SHUTOFF Valve - OFF (pull full out)
+3. FUEL PUMP Switch - OFF
+4. MASTER Switch (ALT and BAT) - OFF
+5. Cabin Vents - OPEN (as needed)
+6. CABIN HT and CABIN AIR Control Knobs - OFF (push full in) (to avoid drafts)
+7. Airspeed - 100 KIAS (If fire is not extinguished, increase glide speed to find an airspeed, within airspeed
+limitations, which will provide an incombustible mixture)
+8. Forced Landing - EXECUTE (refer to EMERGENCY LANDING WITHOUT ENGINE POWER)
+
+21
+CABIN FIRE
+
+1. STBY BATT Switch - OFF
+2. MASTER Switch (ALT and BAT) - OFF
+3. Cabin Vents - CLOSED (to avoid drafts)
+4. CABIN HT and CABIN AIR Control Knobs - OFF (push full in) (to avoid drafts)
+5. Fire Extinguisher - ACTIVATE (if available)
+6. Cabin Vents - OPEN (when sure that fire is completely extinguished)
+7. CABIN HT and CABIN AIR Control Knobs - ON (pull full out) (when sure that fire is completely extinguished)
+8. Land the airplane as soon as possible to inspect for damage.
+WARNING
+
+AFTER THE FIRE EXTINGUISHER HAS BEEN USED, MAKE SURE THAT THE FIRE IS EXTIN-
+GUISHED BEFORE EXTERIOR AIR IS USED TO REMOVE SMOKE FROM THE CABIN.
+
+21
+ELECTRICAL FIRE IN FLIGHT
+
+1. STBY BATT Switch - OFF
+2. MASTER Switch (ALT and BAT) - OFF
+3. Cabin Vents - CLOSED (to avoid drafts)
+4. CABIN HT and CABIN AIR Control Knobs - OFF (push full in) (to avoid drafts)
+5. Fire Extinguisher - ACTIVATE (if available)
+6. AVIONICS Switch (BUS 1 and BUS 2) - OFF
+7. All Other Switches (except MAGNETOS switch) - OFF
+8. Cabin Vents - OPEN (when sure that fire is completely extinguished)
+9. CABIN HT and CABIN AIR Control Knobs - ON (pull full out) (when sure that fire is completely extinguished)
+IF FIRE HAS BEEN EXTINGUISHED AND ELECTRICAL POWER IS NECESSARY FOR CONTINUED FLIGHT TO
+NEAREST SUITABLE AIRPORT OR LANDING AREA
+10. Circuit Breakers - CHECK (for OPEN circuit(s), do not reset)
+11. MASTER Switch (ALT and BAT) - ON
+12. STBY BATT Switch - ARM
+13. AVIONICS Switch (BUS 1) - ON
+14. AVIONICS Switch (BUS 2) - ON
+WARNING
+
+AFTER THE FIRE EXTINGUISHER HAS BEEN USED, MAKE SURE THAT THE FIRE IS EXTIN-
+GUISHED BEFORE EXTERIOR AIR IS USED TO REMOVE SMOKE FROM THE CABIN.
+
+22
+DITCHING
+
+1. Radio - TRANSMIT MAYDAY on 121.5 MHz, (give location, intentions and SQUAWK 7700)
+2. Heavy Objects (in baggage area) - SECURE OR JETTISON (if possible)
+3. Pilot and Passenger Seat Backs - MOST UPRIGHT POSITION
+4. Seats and Seat Belts - SECURE
+5. Wing Flaps - 20° - FULL
+6. Power - ESTABLISH 300 FT/MIN DESCENT AT 55 KIAS
+NOTE
+If no power is available, approach at 70 KIAS with Flaps UP or at 65 KIAS with Flaps 10°.
+7. Approach - High Winds, Heavy Seas - INTO THE WIND
+Light Winds, Heavy Swells - PARALLEL TO SWELLS
+8. Cabin Doors - UNLATCH
+9. Touchdown - LEVEL ATTITUDE AT ESTABLISHED RATE OF DESCENT
+10. Face - CUSHION AT TOUCHDOWN (with folded coat)
+11. ELT - ACTIVATE
+12. Airplane - EVACUATE THROUGH CABIN DOORS
+NOTE
+If necessary, open window and flood cabin to equalize pressure so doors can be opened.
+13. Life Vests and Raft - INFLATE WHEN CLEAR OF AIRPLANE
+
+23
+EMERGENCY LANDING WITHOUT ENGINE POWER
+
+1. Pilot and Passenger Seat Backs - MOST UPRIGHT POSITION
+2. Seats and Seat Belts - SECURE
+3. Airspeed - 70 KIAS
+Flaps UP 65 KIAS - Flaps 10° - FULL
+4. Mixture Control - IDLE CUTOFF (pull full out)
+5. FUEL SHUTOFF Valve - OFF (pull full out)
+6. MAGNETOS Switch - OFF
+7. Wing Flaps - AS REQUIRED (FULL recommended)
+8. STBY BATT Switch - OFF
+9. MASTER Switch (ALT and BAT) - OFF (when landing is assured)
+10. Doors - UNLATCH PRIOR TO TOUCHDOWN
+11. Touchdown - SLIGHTLY TAIL LOW
+12. Brakes - APPLY HEAVILY
+
+23
+PRECAUTIONARY LANDING WITH ENGINE POWER
+
+1. Pilot and Passenger Seat Backs - MOST UPRIGHT POSITION
+2. Seats and Seat Belts - SECURE
+3. Airspeed - 65 KIAS
+4. Wing Flaps - 20°
+5. Selected Field - FLY OVER (noting terrain and obstructions)
+6. Wing Flaps - FULL (on final approach)
+7. Airspeed - 65 KIAS
+8. STBY BATT Switch - OFF
+9. MASTER Switch (ALT and BAT) - OFF (when landing assured)
+10. Doors - UNLATCH PRIOR TO TOUCHDOWN
+11. Touchdown - SLIGHTLY TAIL LOW
+12. Mixture Control - IDLE CUTOFF (pull full out)
+13. MAGNETOS Switch - OFF
+14. Brakes - APPLY HEAVILY
+
+24
+LANDING WITH A FLAT MAIN TIRE
+
+1. Approach - NORMAL
+2. Wing Flaps - FULL
+3. Touchdown - GOOD MAIN TIRE FIRST (hold airplane off flat tire as long as possible with aileron control)
+4. Directional Control - MAINTAIN (using brake on good wheel as required)
+LANDING WITHOUT ELEVATOR CONTROL
+
+Trim for horizontal flight with an airspeed of approximately 65 KIAS and flaps set to 20° by using throttle and el-
+evator trim controls. Then do not change the elevator trim control setting; control the glide angle by adjusting
+
+power. During the landing flare (round-out), the nose will come down when power is reduced and the airplane
+may touch down on the nose wheel before the main wheels. When in the flare, the elevator trim control should be
+adjusted toward the full nose up position and the power adjusted at the same time so that the airplane will rotate
+to a horizontal attitude for touchdown. Close the throttle at touchdown.
+
+25
+LANDING WITH A FLAT NOSE TIRE
+
+1. Approach - NORMAL
+2. Wing Flaps - AS REQUIRED
+85 to 110 KIAS - Flaps UP - 10°
+Below 85 KIAS - Flaps 10° - FULL
+3. Touchdown - ON MAINS (hold nosewheel off the ground as long as possible)
+4. When nosewheel touches down, maintain full up elevator as airplane slows to stop.
+
+26
+SPINS
+
+Should an inadvertent spin occur, the following recovery procedure should be used:
+1. RETARD THROTTLE TO IDLE POSITION.
+2. PLACE AILERONS IN NEUTRAL POSITION.
+3. APPLY AND HOLD FULL RUDDER OPPOSITE TO THE DIRECTION OF ROTATION.
+4. JUST AFTER THE RUDDER REACHES THE STOP, MOVE THE CONTROL WHEEL BRISKLY FORWARD FAR
+ENOUGH TO BREAK THE STALL. Full down elevator may be required at aft center of gravity loadings to assure
+optimum recoveries.
+5. HOLD THESE CONTROL INPUTS UNTIL ROTATION STOPS. Premature relaxation of the control inputs may
+extend the recovery.
+6. AS ROTATION STOPS, NEUTRALIZE RUDDER, AND MAKE A SMOOTH RECOVERY FROM THE RESULTING
+DIVE.
+NOTE
+If the rate of the spin makes determining the direction of rotation difficult, the magenta turn rate indicator
+at the top of the HSI compass card will show the rate and direction of the turn. The HSI compass card
+will rotate in the opposite direction. Hold opposite rudder to the turn vector direction.
+For additional information on spins and spin recovery, see the discussion under SPINS in Normal Procedures,
+Section 4.
+
+27
+HIGH CARBON MONOXIDE (CO) LEVEL ANNUNCIATOR
+
+CO LVL HIGH ANNUNCIATOR COMES ON
+1. CABIN HT Control Knob - OFF (push full in)
+2. CABIN AIR Control Knob - ON (pull full out)
+3. Cabin Vents - OPEN
+4. Cabin Windows - OPEN (163 KIAS maximum windows open speed)
+CO LVL HIGH ANNUNCIATOR REMAINS ON
+5. Land as soon as practical.
+
+28
+INADVERTENT ICING ENCOUNTER DURING FLIGHT
+
+1. PITOT HEAT Switch - ON
+2. Turn back or change altitude (to obtain an outside air temperature that is less conducive to icing)
+3. CABIN HT Control Knob - ON (pull full out)
+4. Defroster Control Outlets - OPEN (to obtain maximum windshield defroster airflow)
+5. CABIN AIR Control Knob - ADJUST (to obtain maximum defroster heat and airflow)
+6. Watch for signs of induction air filter icing. A loss of engine RPM could be caused by ice blocking the air
+intake filter. Adjust the throttle as necessary to hold engine RPM. Adjust mixture as necessary for any change in
+power settings.
+7. Plan a landing at the nearest airport. With an extremely rapid ice build-up, select a suitable off airport landing
+site.
+8. With an ice accumulation of 0.25 inch or more on the wing leading edges, be prepared for significantly
+higher power requirements, higher approach and stall speeds, and a longer landing roll.
+9. Leave wing flaps retracted. With a severe ice build-up on the horizontal tail, the change in wing wake airflow
+direction caused by wing flap extension could result in a loss of elevator effectiveness.
+10. Open left window and, if practical, scrape ice from a portion of the windshield for visibility in the landing
+approach.
+11. Perform a landing approach using a forward slip, if necessary, for improved visibility.
+12. Approach at 65 to 75 KIAS depending upon the amount of ice accumulation.
+13. Perform landing in level attitude.
+14. Missed approaches should be avoided whenever possible because of severely reduced climb capability.
+
+29
+ENTRANCE DOORS AND CABIN WINDOWS (CHAPTER 7)
+
+Entry to and exit from the airplane is accomplished through either of two entry doors, one on each side of the cabin,
+at the front seat positions, Refer to Section 6 for cabin and cabin door dimensions. The doors incorporate a recessed
+exterior door handle, a conventional interior door handle, a key operated door lock, left door only, a door stop
+mechanism, and openable windows in both the left and right doors.
+NOTE
+The door latch design on this model requires that the outside door handle on the pilot and front passenger
+doors be extended out whenever the doors are open. When closing the door, do not attempt to push the
+door handle in until the door is fully shut.
+To open the doors from outside the airplane, utilize the recessed door handle near the aft edge of either door by
+grasping the forward edge of the handle and pulling outboard. To close or open the doors from inside the airplane,
+use the combination door handle and arm rest. The inside door handle has three positions and a placard at its base
+which reads OPEN, CLOSE, and LOCK. The handle is spring loaded to the CLOSE (up) position. When the door
+has been pulled shut and latched, lock it by rotating the door handle forward to the LOCK position (flush with the
+arm rest). When the handle is rotated to the LOCK position, an over center action will hold it in that position. Both
+cabin doors should be locked prior to flight, and should not be opened intentionally during flight.
+NOTE
+Accidental opening of a cabin door in flight, due to improper closing, does not constitute a need to land
+the airplane. The best procedure is to set up the airplane in a trimmed condition at approximately 75 KIAS,
+momentarily shove the door outward slightly, and forcefully close and lock the door.
+Exit from the airplane is accomplished by rotating the door handle from the LOCK position, past the CLOSE position,
+aft to the OPEN position and pushing the door open. To lock the airplane, lock the right cabin door with the inside
+handle, close the left cabin door, and using the ignition key, lock the door.
+The left and right cabin doors are equipped with openable windows which are held in the closed position by a
+detent equipped latch on the lower edge of the window frame. To open the windows, rotate the latch upward. Each
+window is equipped with a spring-loaded retaining arm which will help rotate the window outward, and hold it
+there. If required, either window may be opened at any speed up to 163 KIAS. The rear side windows and rear
+windows are of the fixed type and cannot be opened.
+
+30
+BALKED LANDING
+
+1. Throttle Control - FULL (push full in)
+2. Wing Flaps - RETRACT to 20°
+3. Climb Speed - 60 KIAS
+4. Wing Flaps - 10° (as obstacle is cleared), then UP (after reaching a safe altitude and 65 KIAS)
+CHAPTER 4 NORMAL PROCEDURES
+In a balked landing (go-around) climb, reduce the flap setting to 20° immediately after full
+power is applied and climb at 60 KIAS. If obstacles must be cleared during the go-around
+climb, reduce the wing flap setting to 10° and maintain a safe airspeed until the obstacles
+are cleared. Above 3000 feet pressure altitude, lean the mixture to obtain maximum RPM.
+After clearing any obstacles, carefully retract the flaps and allow the airplane to accelerate
+to normal climb airspeed.
+
+31
+WINDSHIELD DAMAGE
+
+If a bird strike or other incident should damage the windshield in flight to the point of creating an opening, a sig-
+nificant loss in performance may be expected. This loss may be minimized in some cases (depending on amount of
+
+damage, altitude, etc.) by opening the side windows while the airplane is maneuvered for a landing at the nearest
+airport. If airplane performance or other adverse conditions prevent landing at an airport, prepare for an off airport
+landing in accordance with the Precautionary Landing With Engine Power or Ditching checklists.
+
+31
+VACUUM SYSTEM FAILURE
+
+LOW VACUUM ANNUNCIATOR COMES ON
+1. Vacuum Indicator (VAC) - CHECK EIS ENGINE PAGE (make sure vacuum pointer is in green band limits)
+CAUTION
+IF VACUUM POINTER IS OUT OF THE GREEN BAND DURING FLIGHT OR THE GYRO FLAG
+IS SHOWN ON THE STANDBY ATTITUDE INDICATOR, THE STANDBY ATTITUDE INDICATOR
+MUST NOT BE USED FOR ATTITUDE INFORMATION.
