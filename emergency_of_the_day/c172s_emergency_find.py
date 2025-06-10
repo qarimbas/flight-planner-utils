@@ -13,7 +13,7 @@ def get_emergency_checklist(emergency_title, checklist_file_path):
         checklist = []
         found_title = False
         for line in lines:
-            if line.strip() == emergency_title:  # Match the exact title
+            if emergency_title.lower() in line.strip().lower():  # Perform a case-insensitive partial match
                 found_title = True
                 checklist.append(line.strip())  # Add the title to the checklist
                 continue
