@@ -9,19 +9,22 @@ def get_emergency_checklist(emergency_title, checklist_file_path):
         with open(checklist_file_path, 'r') as file:
             lines = file.readlines()
         
-        # Search for the emergency title in the checklist file
+        # Split the emergency title into individual components
+        emergency_parts = [part.strip() for part in emergency_title.split("AND")]
+        
         checklist = []
-        found_title = False
-        for line in lines:
-            if emergency_title.lower() in line.strip().lower():  # Perform a case-insensitive partial match
-                found_title = True
-                checklist.append(line.strip())  # Add the title to the checklist
-                continue
-            
-            if found_title:
-                if line.strip() == "---":  # Stop when the separator is encountered
-                    break
-                checklist.append(line.strip())  # Add checklist items
+        for part in emergency_parts:
+            found_title = False
+            for line in lines:
+                if part.lower() in line.strip().lower():  # Perform a case-insensitive partial match
+                    found_title = True
+                    checklist.append(line.strip())  # Add the title to the checklist
+                    continue
+                
+                if found_title:
+                    if line.strip() == "---":  # Stop when the separator is encountered
+                        break
+                    checklist.append(line.strip())  # Add checklist items
         
         if checklist:
             return "\n".join(checklist)
