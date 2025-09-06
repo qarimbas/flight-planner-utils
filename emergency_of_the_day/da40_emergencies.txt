@@ -1,0 +1,1631 @@
+DA 40 NG AFM Emergency Procedures
+
+3.2.1 ENGINE TEMPERATURE
+
+1. 
+2. Engine coolant temperature is in the upper red range (too high / above 105 °C)
+3. Coolant temperatures above the limit value of 105 °C can lead to a total loss of power due to
+4. engine failure
+5. - Check for COOL LVL (if G1000 is installed) or WATERLEV (if SED is installed) caution
+6. message (low coolant level)
+7. (a) COOL LVL (if G1000 is installed) or WATERLEV (if SED is installed) Caution Message Not
+8. Displayed :
+9. During climb:
+10. - Reduce power by 10 % or more as required
+11. - Increase airspeed by 10 KIAS or more as required
+12. - If the coolant temperature does not reach the green range within 60 seconds, reduce
+13. power as far as possible and increase airspeed
+---
+50
+1. CONTINUED
+2. 
+3. Doc. # 6.01.15-E
+4. Revision 431-Dec-2024 Page 3-5
+5. Emergency Procedures DA 40 NG AFM
+6. During cruise:
+7. - Reduce power, or
+8. - Increase airspeed, if necessary by initiating a descent
+9. - Check coolant temperature in green range
+---
+51
+1. CAUTION
+2. 
+3. If high coolant temperature is indicated and the COOL LVL (if G1000
+4. is installed)  or WATERLEV (if SED is installed)  caution message
+5. is not displayed, it can be assumed that there is no technical defect
+6. in the cooling system and that the above mentioned procedure can
+7. decrease the temperature(s). This might not be the case if the
+8. coolant temperature does not return to the green range. In this case
+9. perform a precautionary landing on the nearest suitable airfield
+10. Prepare for an engine failure in accordance with 3.3.4 - ENGINE
+---
+52
+
+FAILURE IN FLIGHT
+
+1. 
+2. (b) COOL LVL (if G1000 is installed) or WATERLEV (if SED is installed) Caution Message
+3. Displayed:
+4. - Reduce power
+5. - Expect loss of coolant
+---
+53
+1. WARNING
+2. 
+3. A further increase in coolant temperature must be expected. Prepare
+4. for an engine failure in accordance with 3.3.4 - ENGINE FAILURE
+---
+54
+
+IN FLIGHT
+
+---
+55
+
+END OF CHECKLIST
+
+1. 
+2. Page 3-6 31-Dec-2024 Doc. # 6.01.15-E
+3. Revision 4
+4. DA 40 NG AFM Emergency Procedures
+---
+56
+
+3.2.2 OIL TEMPERATURE
+
+1. 
+2. Engine oil temperature is in the upper red range (too high / above 140 °C)
+3. Oil temperatures above the limit value of 140 °C can lead to a total loss of power due to engine
+4. failure
+5. - Check oil pressure
+6. (a) If the Oil Pressure Is Outside of the Green Range (Lower Limit):
+7. - Reduce power
+8. - Expect loss of engine oil
+---
+57
+1. WARNING
+2. 
+3. A further increase in oil temperature must be expected. Prepare for
+4. an engine failure in accordance with 3.3.4 - ENGINE FAILURE IN
+---
+58
+1. FLIGHT
+2. 
+3. (b) If the Oil Pressure Is Within the Green Range:
+4. - Reduce power
+5. - Increase airspeed
+---
+59
+1. CONTINUED
+2. 
+3. Doc. # 6.01.15-E
+4. Revision 431-Dec-2024 Page 3-7
+5. Emergency Procedures DA 40 NG AFM
+---
+60
+1. CAUTION
+2. 
+3. If high oil temperature is announced and the oil pressure indication
+4. is within the green range, it can be assumed that there is no
+5. technical defect in the engine oil system and that the above
+6. mentioned procedure can decrease the temperature(s). This might
+7. not be the case if the oil temperature does not return to the green
+8. range. In this case perform a precautionary landing on the nearest
+9. suitable airfield. Prepare for an engine failure in accordance with
+---
+61
+
+3.3.4 - ENGINE FAILURE IN FLIGHT
+
+---
+62
+
+END OF CHECKLIST
+
+1. 
+2. Page 3-8 31-Dec-2024 Doc. # 6.01.15-E
+3. Revision 4
+4. DA 40 NG AFM Emergency Procedures
+---
+63
+
+3.2.3 OIL PRESSURE
+
+1. 
+2. Engine oil pressure is in the lower red range (too low / below 0.9 bar)
+3. Oil pressures below the limit value of 0.9 bar can lead to a total loss of power due to engine
+4. failure
+5. - Reduce power
+6. - Expect loss of oil
+---
+64
+1. WARNING
+2. 
+3. Land at the nearest suitable airfield. Prepare for an engine failure
+4. in accordance with 3.3.4 - ENGINE FAILURE IN FLIGHT
+---
+65
+
+END OF CHECKLIST
+
+1. 
+2. Doc. # 6.01.15-E
+3. Revision 431-Dec-2024 Page 3-9
+4. Emergency Procedures DA 40 NG AFM
+---
+66
+
+3.2.4 GEARBOX TEMPERATURE
+
+1. 
+2. Engine gearbox temperature is in the upper red range (too high / above 120 °C)
+3. Gearbox temperatures above the limit value of 120 °C can lead to a total loss of power due to
+4. engine failure
+5. - Reduce power
+6. - Increase airspeed
+---
+67
+1. CAUTION
+2. 
+3. At high ambient temperature conditions and/or at low airspeeds with
+4. high power settings, it can be assumed that there is no technical
+5. defect in the gearbox and that the above mentioned procedure will
+6. decrease the temperature(s). This might not be the case if the
+7. gearbox temperature does not return to the green range. In this case
+8. perform a precautionary landing on the nearest suitable airfield
+9. Prepare for an engine failure in accordance with 3.3.4 - ENGINE
+---
+68
+
+FAILURE IN FLIGHT
+
+---
+69
+
+END OF CHECKLIST
+
+1. 
+2. Page 3-10 31-Dec-2024 Doc. # 6.01.15-E
+3. Revision 4
+4. DA 40 NG AFM Emergency Procedures
+---
+70
+
+3.2.5 L/R FUEL TEMPERATURE
+
+1. 
+2. Fuel temperature is in the upper red range (too high / above 60 °C)
+3. Fuel temperatures above the limit value of 60 °C can lead to a noticeable reduction of the high
+4. pressure pump efficiency
+5. - Reduce power
+6. - Increase airspeed
+---
+71
+1. CAUTION
+2. 
+3. At high ambient temperature conditions and/or at low airspeeds with
+4. high power settings and low fuel quantities, it can be assumed that
+5. the above mentioned procedure will decrease the temperature(s)
+6. If the fuel temperature does not return to the green range, perform
+7. a precautionary landing on the nearest suitable airfield
+---
+72
+1. NOTE
+2. 
+3. Increased fuel temperature can occur when the fuel quantity in the
+4. main tank is low. The fuel temperature can be decreased by
+5. transferring fuel from the auxiliary to the main tank
+---
+73
+
+END OF CHECKLIST
+
+1. 
+2. Doc. # 6.01.15-E
+3. Revision 431-Dec-2024 Page 3-11
+4. Emergency Procedures DA 40 NG AFM
+---
+74
+
+3.2.6 FUEL PRESSURE
+
+1. 
+2. Engine fuel pressure is low
+3. 1. Fuel quantity. . . . . . . . . . . . . . . . . . . . . . . . . . check
+4. 2. Fuel valve. . . . . . . . . . . . . . . . . . . . . . . . . . . . check ON
+5. 3. Fuel pumps . . . . . . . . . . . . . . . . . . . . . . . . . . ON
+6. (a) If FUEL PRESS (if G1000 is installed) or FUELPRESS (if SED is installed) Warning Remains:
+7. 4. Fuel valve. . . . . . . . . . . . . . . . . . . . . . . . . . . . EMERGENCY
+8. 5. Fuel pumps . . . . . . . . . . . . . . . . . . . . . . . . . . OFF
+9. (b) If FUEL PRESS (if G1000 is installed) or FUELPRESS (if SED is installed) Warning Still
+10. Remains:
+---
+75
+1. WARNING
+2. 
+3. Imminent engine failure must be expected. Prepare for an engine
+4. failure in accordance with 3.3.4 - ENGINE FAILURE IN FLIGHT
+---
+76
+
+END OF CHECKLIST
+
+1. 
+2. Page 3-12 31-Dec-2024 Doc. # 6.01.15-E
+3. Revision 4
+4. DA 40 NG AFM Emergency Procedures
+---
+77
+
+3.2.7 ALTERNATOR AMPS
+
+1. 
+2. Engine alternator output is in the upper red range (too high / above 70 A)
+3. This warning is indicated when the consumption of electrical power is too high
+4. Possible reasons are:
+5. - A fault in wiring or equipment
+6. 1. Electrical equipment. . . . . . . . . . . . . . . . . . . . switch OFF as necessary and possible
+7. to reduce electric load
+8. If the problem does not clear itself:
+9. 2. Land on the nearest suitable airfield
+---
+78
+
+END OF CHECKLIST
+
+1. 
+2. Doc. # 6.01.15-E
+3. Revision 431-Dec-2024 Page 3-13
+4. Emergency Procedures DA 40 NG AFM
+---
+79
+
+3.2.8 ALTERNATOR FAIL
+
+1. 
+2. Engine alternator has failed
+3. The batteries are the last remaining source of electrical power for about 30 minutes
+4. 1. Circuit breakers . . . . . . . . . . . . . . . . . . . . . . . check
+---
+80
+
+2. ESSENTIAL BUS. . . . . . . . . . . . . . . . . . . . . . ON
+
+1. 
+2. 3. Electrical equipment. . . . . . . . . . . . . . . . . . . . switch OFF all equipment which is
+3. not needed
+4. 4. Land on the nearest suitable airfield
+---
+81
+1. WARNING
+2. 
+3. The ECU which is absolutely necessary for engine operation needs
+4. electrical power. It is recommended to switch off all electrical
+5. consumers and to land as soon as possible. Be prepared for an
+6. engine failure and an emergency landing. For a severe electrical
+7. failure an ECU backup battery system is installed
+---
+82
+1. CAUTION
+2. 
+3. For cases in which the battery capacity is not sufficient to reach a
+4. suitable airfield, an emergency battery is installed, serving as an
+5. additional back-up system for the backup attitude gyro (artificial
+6. horizon) and flood light. This battery is switched on with the
+7. EMERGENCY switch, located on the top left side of the instrument
+8. panel
+---
+83
+
+END OF CHECKLIST
+
+1. 
+2. Page 3-14 31-Dec-2024 Doc. # 6.01.15-E
+3. Revision 4
+4. DA 40 NG AFM Emergency Procedures
+---
+84
+
+3.3 ENGINE PROBLEMS
+
+---
+85
+
+3.3.1 ENGINE PROBLEMS ON GROUND
+
+1. 
+2. 1. POWER lever . . . . . . . . . . . . . . . . . . . . . . . . IDLE
+3. 2. Brakes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . as required
+---
+86
+1. NOTE
+2. 
+3. If considered necessary, the engine must be shut down. Otherwise
+4. the cause of the problem must be established in order to re-establish
+5. engine performance
+---
+87
+1. CAUTION
+2. 
+3. If the oil pressure is in the red range, the engine must be shut down
+4. immediately
+---
+88
+1. WARNING
+2. 
+3. If the problem cannot be cleared, the airplane must not be flown
+---
+89
+
+END OF CHECKLIST
+
+1. 
+2. Doc. # 6.01.15-E
+3. Revision 431-Dec-2024 Page 3-15
+4. Emergency Procedures DA 40 NG AFM
+---
+90
+
+3.3.2 ENGINE PROBLEMS DURING TAKE-OFF
+
+1. 
+2. (a) Take-Off Can Still Be Aborted (Sufficient Runway Length Available)
+3. Land Straight Ahead:
+4. 1. POWER lever. . . . . . . . . . . . . . . . . . . . . . . . . IDLE
+5. On the Ground:
+6. 2. Brakes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . as required
+---
+91
+1. WARNING
+2. 
+3. If sufficient time is remaining, the risk of fire in the event of a collision
+4. can be reduced as follows:
+5. - Fuel valve. . . . . . . . . . . . . . . . . . . OFF
+---
+92
+
+- ENGINE MASTER . . . . . . . . . . . . OFF
+
+---
+93
+
+- ELECTRIC MASTER . . . . . . . . . . OFF
+
+---
+94
+
+END OF CHECKLIST
+
+1. 
+2. Page 3-16 31-Dec-2024 Doc. # 6.01.15-E
+3. Revision 4
+4. DA 40 NG AFM Emergency Procedures
+5. (b) Take-Off Can No Longer Be Aborted
+6. 1. Airspeed . . . . . . . . . . . . . . . . . . . . . . . . . . . . immediate pitch down to avoid
+7. airspeed reduction
+---
+95
+1. WARNING
+2. 
+3. If, in the event of an engine problem occurring during take-off, the
+4. take-off can no longer be aborted and a safe height has not been
+5. reached, then a straight-ahead emergency landing should be
+6. considered. Do not attempt to turn back to the airfield. Turning back
+7. can be fatal
+8. If Time Allows:
+9. 2. POWER lever . . . . . . . . . . . . . . . . . . . . . . . . check MAX
+10. 3. Fuel pumps . . . . . . . . . . . . . . . . . . . . . . . . . . check ON
+11. 4. VOTER switch. . . . . . . . . . . . . . . . . . . . . . . . check AUTO
+---
+96
+1. WARNING
+2. 
+3. If the problem does not clear itself immediately, and the engine is
+4. no longer producing sufficient power, then an emergency landing
+5. must be carried out in accordance with 3.7.1 - EMERGENCY
+---
+97
+
+LANDING WITH ENGINE OFF
+
+---
+98
+
+END OF CHECKLIST
+
+1. 
+2. Doc. # 6.01.15-E
+3. Revision 431-Dec-2024 Page 3-17
+4. Emergency Procedures DA 40 NG AFM
+---
+99
+
+3.3.3  ENGINE TROUBLESHOOTING IN FLIGHT
+
+---
+100
+1. WARNING
+2. 
+3. Control over the flight attitude has priority over attempts to solve the
+4. current problem (“first fly the airplane”)
+5. 1. Airspeed. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 88 KIAS
+6. 2. POWER lever. . . . . . . . . . . . . . . . . . . . . . . . . MAX
+---
+101
+1. NOTE
+2. 
+3. If the loss of power was due to unintentional setting of the POWER
+4. lever, you may adjust the friction lock and continue your flight
+5. (a) If the ECU A and ECU B Cautions Appear Simultaneously
+6. - If the indicated LOAD remains unchanged, and
+7. - if the perceived thrust is reduced, and
+8. - if the engine noise level changes or the engine is running rough:
+9. 3. POWER lever. . . . . . . . . . . . . . . . . . . . . . . . . IDLE for 1 second
+10. 4. POWER lever. . . . . . . . . . . . . . . . . . . . . . . . . slowly increase to 1975 RPM
+11. If the engine shows a power loss during the POWER lever increase:
+12. 5. POWER lever. . . . . . . . . . . . . . . . . . . . . . . . . IDLE for 1 second
+13. 6. POWER lever. . . . . . . . . . . . . . . . . . . . . . . . . slowly increase, stop prior to the
+14. previously observed engine power
+15. loss RPM
+---
+102
+1. CONTINUED
+2. 
+3. Page 3-18 31-Dec-2024 Doc. # 6.01.15-E
+4. Revision 4
+5. DA 40 NG AFM Emergency Procedures
+---
+103
+1. WARNING
+2. 
+3. Do not increase the POWER lever past the propeller speed of 1975
+4. RPM or the setting determined in step 6. An increase of engine
+5. power beyond this setting leads into another power loss
+---
+104
+1. NOTE
+2. 
+3. With this power setting the engine can provide up to 65 % load at
+4. the maximum propeller speed of 1975 RPM
+5. 7. Land at the next suitable airfield
+6. (b) Otherwise
+7. Depending on the situation the following attempts can be made to restore normal engine
+8. operation:
+9. 3. Circuit breakers . . . . . . . . . . . . . . . . . . . . . . . check / reset if necessary
+10. If normal engine operation is restored continue flight and land as soon as possible
+11. Otherwise:
+12. 4. VOTER switch. . . . . . . . . . . . . . . . . . . . . . . . swap between ECU A and B
+13. If either ECU A or B setting restores normal engine operation then maintain ECU setting and
+14. land as soon as possible
+---
+105
+1. CONTINUED
+2. 
+3. Doc. # 6.01.15-E
+4. Revision 431-Dec-2024 Page 3-19
+5. Emergency Procedures DA 40 NG AFM
+6. Otherwise:
+7. 5. VOTER switch . . . . . . . . . . . . . . . . . . . . . . . . switch back to AUTO to retain ECU
+8. redundancy
+9. If normal engine operation is restored continue flight and land as soon as possible
+10. Otherwise:
+11. 6. Fuel valve. . . . . . . . . . . . . . . . . . . . . . . . . . . . EMERGENCY
+12. If normal engine operation is restored continue flight and land as soon as possible. Remain within
+13. maximum allowable lateral imbalance
+14. Otherwise:
+15. 7. Fuel valve. . . . . . . . . . . . . . . . . . . . . . . . . . . . NORMAL
+16. 8. Alternate air . . . . . . . . . . . . . . . . . . . . . . . . . . OPEN
+17. 9. POWER lever. . . . . . . . . . . . . . . . . . . . . . . . . apply power as required
+18. If normal engine operation is restored continue flight and land as soon as practicable
+19. If normal engine operation could not be restored by following the procedures in this section
+20. prepare for 3.3.4 - ENGINE FAILURE IN FLIGHT and land as soon as possible
+---
+106
+
+END OF CHECKLIST
+
+1. 
+2. Page 3-20 31-Dec-2024 Doc. # 6.01.15-E
+3. Revision 4
+4. DA 40 NG AFM Emergency Procedures
+---
+107
+
+3.3.4 ENGINE FAILURE IN FLIGHT
+
+---
+108
+1. WARNING
+2. 
+3. Control over the flight attitude has priority over attempts to solve the
+4. current problem (“first fly the airplane”)
+---
+109
+1. NOTE
+2. 
+3. As long as there is no major mechanical engine defect, the propeller
+4. will continue to windmill
+5. 1. Airspeed . . . . . . . . . . . . . . . . . . . . . . . . . . . . 88 KIAS
+6. 2. Flaps . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . UP
+7. (a) If the Remaining Altitude is Sufficient for a Restart Attempt:
+8. Try to restart the engine, refer to 3.3.5 - RESTARTING THE ENGINE IN FLIGHT
+9. (b) If the Remaining Altitude is NOT Sufficient for a Restart Attempt:
+10. Carry out an emergency landing in accordance with 3.7.1 - EMERGENCY LANDING
+---
+110
+
+WITH ENGINE OFF
+
+---
+111
+
+END OF CHECKLIST
+
+1. 
+2. Doc. # 6.01.15-E
+3. Revision 431-Dec-2024 Page 3-21
+4. Emergency Procedures DA 40 NG AFM
+---
+112
+
+3.3.5 RESTARTING THE ENGINE IN FLIGHT
+
+---
+113
+1. NOTE
+2. 
+3. With a failed engine the propeller continues to windmill. A stopped
+4. propeller indicates a major mechanical engine defect. Starter
+5. assisted restart shall not be considered
+6. (a) Maximum Restart Altitude:
+7. 16,400 ft pressure altitude . . . . . . . . . . . . . . . for immediate restarts
+8. 15,000 ft pressure altitude. . . . . . . . . . . . . . . . for immediate restarts (if MÄM 40-838
+9. or later approved software is installed)
+10. 10,000 ft pressure altitude . . . . . . . . . . . . . . . for restarts within two minutes
+---
+114
+1. NOTE
+2. 
+3. If the engine is allowed to cool down for more than two minutes, a
+4. successful restart may not be possible
+5. 1. Airspeed. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 88 KIAS
+6. 2. POWER lever. . . . . . . . . . . . . . . . . . . . . . . . . IDLE
+7. 3. VOTER switch . . . . . . . . . . . . . . . . . . . . . . . . swap between ECU A and B
+8. If either ECU A or B setting restores normal engine operation, then maintain
+9. that ECU setting and land as soon as possible
+10. Otherwise:
+11. 4. VOTER switch . . . . . . . . . . . . . . . . . . . . . . . . switch back to AUTO to retain
+12. ECU redundancy
+13. 5. Fuel valve. . . . . . . . . . . . . . . . . . . . . . . . . . . . check NORMAL
+14. 6. Alternate air . . . . . . . . . . . . . . . . . . . . . . . . . . as required
+15. 7. Fuel quantity. . . . . . . . . . . . . . . . . . . . . . . . . . check
+16. 8. Fuel transfer pump. . . . . . . . . . . . . . . . . . . . . as required
+17. 9. ELECTRIC MASTER. . . . . . . . . . . . . . . . . . . check ON
+18. 10. ENGINE MASTER. . . . . . . . . . . . . . . . . . . . . check ON
+---
+115
+1. CONTINUED
+2. 
+3. Page 3-22 31-Dec-2024 Doc. # 6.01.15-E
+4. Revision 4
+5. DA 40 NG AFM Emergency Procedures
+6. (b) If Engine Does Not Start:
+7. 10. Fuel valve . . . . . . . . . . . . . . . . . . . . . . . . . . . EMERGENCY
+8. (c)  If Engine Does Not Start Adopt Glide Configuration:
+9. 11. Flaps . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . UP
+10. 12. Carry out an emergency landing in accordance with 3.7.1 - EMERGENCY
+---
+116
+
+LANDING WITH ENGINE OFF
+
+---
+117
+1. NOTE
+2. 
+3. The glide ratio is 9.7; i.e., for every 1000 ft (305 m) of altitude
+4. loss the maximum horizontal distance traveled in still air is 1.59
+5. NM (2.94 km). During this the propeller will continue to windmill
+---
+118
+1. CAUTION
+2. 
+3. Engine restart following an engine fire should only be attempted
+4. if it is unlikely that a safe emergency landing can be made. It
+5. must be expected that engine restart is impossible after an
+6. engine fire
+7. 13. AVIONIC MASTER . . . . . . . . . . . . . . . . . . . . ON, if required
+---
+119
+
+END OF CHECKLIST
+
+1. 
+2. Doc. # 6.01.15-E
+3. Revision 431-Dec-2024 Page 3-23
+4. Emergency Procedures DA 40 NG AFM
+---
+120
+
+3.3.6 DEFECTIVE RPM REGULATING SYSTEM
+
+---
+121
+1. WARNING
+2. 
+3. In case of defective RPM regulating system, reduced engine
+4. performance should be anticipated
+---
+122
+1. CAUTION
+2. 
+3. Following a failure of the governor the RPM should be adjusted
+4. with the POWER lever
+---
+123
+1. CAUTION
+2. 
+3. The POWER lever should be moved slowly, in order to avoid
+4. over-speeding and excessively rapid RPM changes. The light
+5. wooden propeller blades produce more rapid RPM changes
+6. than metal blades
+7. (a) Oscillating RPM
+8. 1. Power setting. . . . . . . . . . . . . . . . . . . . . . . . . change
+9. If the Problem Does Not Clear:
+10. 2. VOTER switch . . . . . . . . . . . . . . . . . . . . . . . . swap between ECU A and B
+11. If the Problem Does Not Clear:
+12. 3. VOTER switch . . . . . . . . . . . . . . . . . . . . . . . . AUTO
+13. 4. Land on the nearest suitable airfield
+---
+124
+
+END OF CHECKLIST
+
+1. 
+2. Page 3-24 31-Dec-2024 Doc. # 6.01.15-E
+3. Revision 4
+4. DA 40 NG AFM Emergency Procedures
+5. (b) Propeller Overspeed
+---
+125
+1. CAUTION
+2. 
+3. Climb performance will be reduced
+---
+126
+1. NOTE
+2. 
+3. The propeller now works like a fixed pitch propeller. RPM is
+4. controlled by the engine power setting. Flight to the nearest
+5. airfield can be continued with a lower power setting and at a
+6. lower airspeed. Climb and go-around may not be possible under
+7. all conditions
+8. 1. POWER lever . . . . . . . . . . . . . . . . . . . . . . . . reduce to not exceed 2300 RPM
+9. 2. Airspeed . . . . . . . . . . . . . . . . . . . . . . . . . . . . 88 KIAS
+10. 3. Flaps . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . check UP
+11. After RPM has Stabilized Below 2300 RPM:
+12. 4. Airspeed . . . . . . . . . . . . . . . . . . . . . . . . . . . . as required, do not exceed 2300 RPM
+13. 5. POWER lever. . . . . . . . . . . . . . . . . . . . . . . . . as required, do not exceed 2300 RPM
+14. If the Problem Does Not Clear:
+15. 6. VOTER switch. . . . . . . . . . . . . . . . . . . . . . . . swap between ECU A and B
+---
+127
+1. NOTE
+2. 
+3. If selecting ECU A or ECU B does not solve the problem, switch
+4. back to AUTO. Keep controlling the climb/sink rate with the
+5. POWER lever and do not exceed 2300 RPM
+---
+128
+1. CONTINUED
+2. 
+3. Doc. # 6.01.15-E
+4. Revision 431-Dec-2024 Page 3-25
+5. Emergency Procedures DA 40 NG AFM
+6. If the Problem Does Not Clear:
+7. 7. Land on the nearest suitable airfield
+8. If an Increased Climb Rate is Required:
+9. 8. Flaps . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . T/O position
+10. 9. Airspeed. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 72 KIAS
+11. 10. POWER lever. . . . . . . . . . . . . . . . . . . . . . . . . as required, do not exceed 2300 RPM
+---
+129
+
+END OF CHECKLIST
+
+1. 
+2. Page 3-26 31-Dec-2024 Doc. # 6.01.15-E
+3. Revision 4
+4. DA 40 NG AFM Emergency Procedures
+5. (c) Propeller Underspeed
+6. 1. POWER lever . . . . . . . . . . . . . . . . . . . . . . . . as required
+7. If the Problem Does Not Clear:
+8. 2. VOTER switch. . . . . . . . . . . . . . . . . . . . . . . . swap between ECU A and B
+9. If the Problem Does Not Clear:
+10. 3. VOTER switch. . . . . . . . . . . . . . . . . . . . . . . . AUTO
+11. 4. POWER lever . . . . . . . . . . . . . . . . . . . . . . . . as required
+---
+130
+1. WARNING
+2. 
+3. Due to this problem the propeller RPM will drop. There may be
+4. no climb performance and no go-around power available
+5. 5. Land on the nearest suitable airfield
+---
+131
+
+END OF CHECKLIST
+
+1. 
+2. Doc. # 6.01.15-E
+3. Revision 431-Dec-2024 Page 3-27
+4. Emergency Procedures DA 40 NG AFM
+---
+132
+
+3.3.7 FUEL TRANSFER PUMP FAILURE
+
+1. 
+2. 1. Fuel quantity. . . . . . . . . . . . . . . . . . . . . . . . . . check
+3. If Main Tank Fuel Quantity Low:
+4. 2. Fuel valve. . . . . . . . . . . . . . . . . . . . . . . . . . . . EMERGENCY
+5. 3. Fuel pumps . . . . . . . . . . . . . . . . . . . . . . . . . . OFF
+---
+133
+1. WARNING
+2. 
+3. The fuel valve must be switched back to NORMAL before the
+4. auxiliary tank indication reads zero! Otherwise, the engine will
+5. stop during flight when the auxiliary tank is empty
+---
+134
+1. WARNING
+2. 
+3. When the fuel pump takes in air (e.g. when the fuel valve is not
+4. switched back and the auxiliary tank is empty), an inspection of
+5. the pump is necessary prior to next flight
+---
+135
+1. CAUTION
+2. 
+3. When set to EMERGENCY, fuel is transferred from the auxiliary
+4. tank to the main tank at a rate of approximately 45 US gal/h
+5. (170 liter/h)
+6. 4. AUX tank . . . . . . . . . . . . . . . . . . . . . . . . . . . . monitor quantity
+7. 5. MAIN tank . . . . . . . . . . . . . . . . . . . . . . . . . . . monitor quantity
+---
+136
+1. NOTE
+2. 
+3. AUX tank quantity must not be less than 1 US gal and MAIN
+4. tank quantity must not be more than 14 US gal
+5. 6. Fuel valve. . . . . . . . . . . . . . . . . . . . . . . . . . . . NORMAL
+6. 7. Land as soon as practicable
+---
+137
+
+END OF CHECKLIST
+
+1. 
+2. Page 3-28 31-Dec-2024 Doc. # 6.01.15-E
+3. Revision 4
+4. DA 40 NG AFM Emergency Procedures
+---
+138
+
+3.4 FAILURES IN THE ELECTRICAL SYSTEM
+
+---
+139
+
+3.4.1 COMPLETE FAILURE OF THE ELECTRICAL SYSTEM
+
+1. 
+2. 1. Circuit breakers . . . . . . . . . . . . . . . . . . . . . . . check IN
+---
+140
+
+2. ESSENTIAL BUS . . . . . . . . . . . . . . . . . . . . . ON
+
+1. 
+2. (a) If There Is Still No Electrical Power Available:
+3. 3. EMERGENCY switch (if installed). . . . . . . . . ON
+4. 4. Flood light, if necessary. . . . . . . . . . . . . . . . . ON
+5. 5. POWER. . . . . . . . . . . . . . . . . . . . . . . . . . . . . set based on lever positions and
+6. engine noise
+7. 6. Prepare for landing with flaps in the given position. Refer to 4B.5 - FAILURES IN
+---
+141
+
+FLAP OPERATING SYSTEM
+
+1. 
+2. 7. Land on the nearest suitable airfield
+---
+142
+1. WARNING
+2. 
+3. Engine stoppage may occur, depending on the failure mode. A
+4. backup battery is installed for the ECU to provide electrical
+5. power solely to ECU B and its system for at least 30 minutes
+---
+143
+1. NOTE
+2. 
+3. The backup artificial horizon and the flood light will have
+4. electrical power for at least one hour
+5. If G1000 is installed make use of the stand-by airspeed indicator and altimeter. Engine
+6. power can be set via visual reference of the POWER lever position
+---
+144
+
+END OF CHECKLIST
+
+1. 
+2. Doc. # 6.01.15-E
+3. Revision 431-Dec-2024 Page 3-29
+4. Emergency Procedures DA 40 NG AFM
+---
+145
+
+3.4.2 STARTER MALFUNCTION
+
+1. 
+2. If the starter does not disengage from the engine after starting (Starter engaged warning
+3. (STARTER) on the G1000 (if installed) or START on the White Wire annunciator (if
+4. installed) illuminates after the engine has started):
+5. (a) On Ground:
+6. 1. POWER lever. . . . . . . . . . . . . . . . . . . . . . . . . IDLE
+---
+146
+
+2. ENGINE MASTER. . . . . . . . . . . . . . . . . . . . . OFF
+
+---
+147
+
+3. ELECTRIC MASTER. . . . . . . . . . . . . . . . . . . OFF
+
+1. 
+2. Terminate flight preparation!
+3. (b) In Flight:
+4. Land as soon as possible
+---
+148
+
+END OF CHECKLIST
+
+---
+149
+
+3.5 SMOKE AND FIRE
+
+---
+150
+
+3.5.1 SMOKE AND FIRE ON GROUND
+
+1. 
+2. (a) Engine Fire When Starting on the Ground
+3. 1. Fuel valve. . . . . . . . . . . . . . . . . . . . . . . . . . . . OFF
+4. 2. Fuel transfer pump. . . . . . . . . . . . . . . . . . . . . OFF
+---
+151
+
+3. ENGINE MASTER. . . . . . . . . . . . . . . . . . . . . OFF
+
+1. 
+2. 4. Fuel pumps . . . . . . . . . . . . . . . . . . . . . . . . . . OFF
+---
+152
+
+5. ELECTRIC MASTER. . . . . . . . . . . . . . . . . . . OFF
+
+1. 
+2. After Standstill:
+3. 6. Canopy. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . open
+4. 7. Airplane . . . . . . . . . . . . . . . . . . . . . . . . . . . . . evacuate immediately
+---
+153
+
+END OF CHECKLIST
+
+1. 
+2. Page 3-30 31-Dec-2024 Doc. # 6.01.15-E
+3. Revision 4
+4. DA 40 NG AFM Emergency Procedures
+5. (b) Electrical Fire with Smoke on the Ground
+---
+154
+
+1. ELECTRIC MASTER. . . . . . . . . . . . . . . . . . . OFF
+
+1. 
+2. If the Engine Is Running:
+3. 2. POWER lever . . . . . . . . . . . . . . . . . . . . . . . . IDLE
+---
+155
+
+3. ENGINE MASTER. . . . . . . . . . . . . . . . . . . . . OFF
+
+1. 
+2. 4. Fuel pumps . . . . . . . . . . . . . . . . . . . . . . . . . . OFF
+3. When the Engine Has Stopped:
+4. 5. Canopy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . open
+5. 6. Airplane . . . . . . . . . . . . . . . . . . . . . . . . . . . . . evacuate immediately
+---
+156
+
+END OF CHECKLIST
+
+---
+157
+
+3.5.2 SMOKE AND FIRE DURING TAKE-OFF
+
+1. 
+2. (a) If Take-Off Can Still Be Aborted
+3. 1. POWER lever . . . . . . . . . . . . . . . . . . . . . . . . IDLE
+4. 2. Cabin heat. . . . . . . . . . . . . . . . . . . . . . . . . . . OFF
+5. 3. Brakes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . apply - bring the airplane to a stop
+6. 4. Fuel valve . . . . . . . . . . . . . . . . . . . . . . . . . . . OFF
+7. 5. Fuel transfer pump . . . . . . . . . . . . . . . . . . . . OFF
+---
+158
+
+6. ENGINE MASTER. . . . . . . . . . . . . . . . . . . . . OFF
+
+1. 
+2. 7. Fuel pumps . . . . . . . . . . . . . . . . . . . . . . . . . . OFF
+---
+159
+
+8. ELECTRIC MASTER. . . . . . . . . . . . . . . . . . . OFF
+
+1. 
+2. After Standstill:
+3. 9. Canopy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . open
+4. 10. Airplane . . . . . . . . . . . . . . . . . . . . . . . . . . . . . evacuate immediately
+---
+160
+
+END OF CHECKLIST
+
+1. 
+2. Doc. # 6.01.15-E
+3. Revision 431-Dec-2024 Page 3-31
+4. Emergency Procedures DA 40 NG AFM
+5. (b) If Take-Off Cannot Be Aborted
+6. 1. Cabin heat . . . . . . . . . . . . . . . . . . . . . . . . . . . OFF
+7. 2. If possible, fly along a short-cut traffic circuit and land on the airfield
+---
+161
+1. WARNING
+2. 
+3. If, in the event of an engine problem occurring during take-off,
+4. the take-off can no longer be aborted and a safe height has not
+5. been reached, then a straight-ahead emergency landing should
+6. be carried out. Do not attempt to turn back to the airfield
+7. Turning back can be fatal. Refer to 3.3.2 - ENGINE PROBLEMS
+---
+162
+
+DURING TAKE-OFF
+
+1. 
+2. After Climbing to a Height From Which the Selected Landing Area Can Be Reached Safely:
+3. 3. Fuel valve. . . . . . . . . . . . . . . . . . . . . . . . . . . . OFF
+4. 4. Fuel transfer pump. . . . . . . . . . . . . . . . . . . . . OFF
+5. 5. Cabin heat . . . . . . . . . . . . . . . . . . . . . . . . . . . OFF
+---
+163
+
+6. ENGINE MASTER. . . . . . . . . . . . . . . . . . . . . OFF
+
+1. 
+2. 7. Fuel pumps . . . . . . . . . . . . . . . . . . . . . . . . . . OFF
+---
+164
+
+8. ELECTRIC MASTER. . . . . . . . . . . . . . . . . . . OFF
+
+1. 
+2. 9. Emergency windows . . . . . . . . . . . . . . . . . . . open if necessary
+3. 10. Carry out an emergency landing with engine off. Allow for increased landing distance
+4. due to the flap position. Refer to 3.7.1 - EMERGENCY LANDING WITH ENGINE
+---
+165
+1. OFF
+---
+166
+1. CONTINUED
+2. 
+3. Page 3-32 31-Dec-2024 Doc. # 6.01.15-E
+4. Revision 4
+5. DA 40 NG AFM Emergency Procedures
+---
+167
+1. CAUTION
+2. 
+3. In case of extreme smoke development, the front canopy may
+4. be unlatched during flight. This allows it to partially open, in
+5. order to improve ventilation. The canopy will remain open in this
+6. position. Flight characteristics will not be affected significantly
+7. When Airplane Has Stopped:
+8. 11. Canopy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . open
+9. 12. Airplane . . . . . . . . . . . . . . . . . . . . . . . . . . . . . evacuate immediately
+---
+168
+
+END OF CHECKLIST
+
+1. 
+2. Doc. # 6.01.15-E
+3. Revision 431-Dec-2024 Page 3-33
+4. Emergency Procedures DA 40 NG AFM
+---
+169
+
+3.5.3 SMOKE AND FIRE IN FLIGHT
+
+---
+170
+1. WARNING
+2. 
+3. In the event of smoke or fire, prepare to land the airplane
+4. without delay while completing fire suppression and/or smoke
+5. evacuation procedures. If it cannot be visually verified that the
+6. fire has been completely extinguished, whether the smoke has
+7. cleared or not, land immediately
+8. (a) Engine Fire in Flight
+9. 1. Cabin heat . . . . . . . . . . . . . . . . . . . . . . . . . . . OFF
+10. 2. Select appropriate emergency landing area
+11. When it Seems Certain That the Landing Area Will Be Reached:
+12. 3. Fuel valve. . . . . . . . . . . . . . . . . . . . . . . . . . . . OFF
+13. 4. POWER lever. . . . . . . . . . . . . . . . . . . . . . . . . MAX
+14. 5. Emergency windows . . . . . . . . . . . . . . . . . . . open if required
+15. 6. Land immediately. Refer to 3.7.1 - EMERGENCY LANDING WITH ENGINE OFF
+---
+171
+1. CAUTION
+2. 
+3. In case of extreme smoke development, the front canopy may
+4. be unlatched during flight. This allows it to partially open, in
+5. order to improve ventilation. The canopy will remain open in this
+6. position. Flight characteristics will not be affected significantly
+7. When Airplane Has Stopped:
+8. 7. Canopy. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . open
+9. 8. Airplane . . . . . . . . . . . . . . . . . . . . . . . . . . . . . evacuate immediately
+---
+172
+
+END OF CHECKLIST
+
+1. 
+2. Page 3-34 31-Dec-2024 Doc. # 6.01.15-E
+3. Revision 4
+4. DA 40 NG AFM Emergency Procedures
+5. (b) Electrical Fire with Smoke in Flight
+6. 1. EMERGENCY switch (if installed). . . . . . . . . ON
+---
+173
+
+2. AVIONIC MASTER . . . . . . . . . . . . . . . . . . . . OFF
+
+---
+174
+
+3. ELECTRIC MASTER. . . . . . . . . . . . . . . . . . . OFF
+
+1. 
+2. 4. Cabin heat. . . . . . . . . . . . . . . . . . . . . . . . . . . OFF
+3. 5. Emergency windows . . . . . . . . . . . . . . . . . . . open if required
+4. 6. Land immediately. Refer to 3.7.1 - EMERGENCY LANDING WITH ENGINE OFF
+---
+175
+1. WARNING
+2. 
+3. Switching OFF the ELECTRIC MASTER will lead to total failure
+4. of all electronic and electric equipment. Also affected from this is
+5. the attitude gyro (artificial horizon)
+6. However, by switching the EMERGENCY switch ON, if installed,
+7. the emergency battery, if installed will supply power to the
+8. attitude gyro (artificial horizon) and the flood light
+9. In case of extreme smoke development, the front canopy may
+10. be unlatched during flight. This allows it to partially open, in
+11. order to improve ventilation. The canopy will remain open in this
+12. position. Flight characteristics will not be affected significantly
+13. When Airplane Has Stopped:
+14. 7. Canopy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . open
+15. 8. Airplane . . . . . . . . . . . . . . . . . . . . . . . . . . . . . evacuate immediately
+---
+176
+
+END OF CHECKLIST
+
+1. 
+2. Doc. # 6.01.15-E
+3. Revision 431-Dec-2024 Page 3-35
+4. Emergency Procedures DA 40 NG AFM
+---
+177
+
+3.6 GLIDING
+
+1. 
+2. 1. Flaps . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . UP
+3. 2. Airspeed. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 88 KIAS
+---
+178
+1. NOTE
+2. 
+3. The glide ratio is 9.7; i.e., for every 1000 ft (305 m) of altitude
+4. loss the maximum horizontal distance traveled in still air is 1.59
+5. NM (2.94 km). During this the propeller will continue to windmill
+---
+179
+1. NOTE
+2. 
+3. For operation without wheel fairings the glide ratio is reduced to
+4. 9.4; i.e., for every 1000 ft (305 m) of altitude loss the maximum
+5. horizontal distance traveled in still air is 1.54 NM (2.85 km)
+6. During this the propeller will continue to windmill
+---
+180
+
+END OF CHECKLIST
+
+1. 
+2. Page 3-36 31-Dec-2024 Doc. # 6.01.15-E
+3. Revision 4
+4. DA 40 NG AFM Emergency Procedures
+---
+181
+
+3.7 EMERGENCY LANDINGS
+
+---
+182
+1. NOTE
+2. 
+3. For all airspeed tables in the following sections apply linear
+4. variation between weights
+---
+183
+
+3.7.1 EMERGENCY LANDING WITH ENGINE OFF
+
+---
+184
+1. CAUTION
+2. 
+3. For emergency landing the adjustable backrests (if installed)
+4. must be fixed in the upright position
+5. 1. Adjustable backrests (if installed) . . . . . . . . . . adjust to the upright position described
+6. by a placard on the roll-over bar and
+7. verify proper fixation
+8. 2. ENGINE MASTER. . . . . . . . . . . . . . . . . . . . . check OFF
+9. 3. Fuel transfer pump . . . . . . . . . . . . . . . . . . . . OFF
+10. 4. Fuel pumps . . . . . . . . . . . . . . . . . . . . . . . . . . OFF
+11. 5. Fuel valve . . . . . . . . . . . . . . . . . . . . . . . . . . . OFF
+---
+185
+
+6. AVIONIC MASTER . . . . . . . . . . . . . . . . . . . . OFF
+
+1. 
+2. 7. Safety harnesses. . . . . . . . . . . . . . . . . . . . . . check fastened and tightened
+3. When Sure of Making Landing Area:
+4. 8. Flaps . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . T/O or LDG, as required
+---
+186
+1. NOTE
+2. 
+3. Extending the flaps to LDG will increase drag and incur a high
+4. sink rate. When the landing area can be reached safely, landing
+5. with flaps LDG is advisable
+---
+187
+1. CONTINUED
+2. 
+3. Doc. # 6.01.15-E
+4. Revision 431-Dec-2024 Page 3-37
+5. Emergency Procedures DA 40 NG AFM
+6. 9. Approach speed. . . . . . . . . . . . . . . . . . . . . . . see table below:
+7. Flaps940 kg
+8. (2072 lb)1000 kg
+9. (2205 lb)1080 kg
+10. (2381 lb)1160 kg
+11. (2557 lb)1216 kg
+12. (2681 lb)up to 1280 kg
+13. (2822 lb)
+---
+188
+
+T/O 68 KIAS 70 KIAS 73 KIAS 76 KIAS 77 KIAS 78 KIAS
+
+---
+189
+
+LDG 66 KIAS 69 KIAS 72 KIAS 74 KIAS 76 KIAS 77 KIAS
+
+---
+190
+
+10. ELECTRIC MASTER. . . . . . . . . . . . . . . . . . . OFF
+
+1. 
+2. 11. Touchdown . . . . . . . . . . . . . . . . . . . . . . . . . . lowest practical speed
+---
+191
+
+END OF CHECKLIST
+
+1. 
+2. Page 3-38 31-Dec-2024 Doc. # 6.01.15-E
+3. Revision 4
+4. DA 40 NG AFM Emergency Procedures
+---
+192
+
+3.7.2 LANDING WITH A DEFECTIVE TIRE ON THE MAIN LANDING GEAR
+
+---
+193
+1. CAUTION
+2. 
+3. A defective (e.g. burst) tire is not usually easy to detect. The
+4. damage normally occurs during take-off or landing, and is hardly
+5. noticeable during fast taxiing. It is only during the roll-out after
+6. landing or at lower taxiing speeds that a tendency to swerve
+7. occurs. Rapid and determined action is then required
+8. 1. Advise ATC
+9. 2. Land the airplane at the edge of the runway that is located on the side of the intact
+10. tire, so that changes in direction which must be expected during roll-out due to the
+11. braking action of the defective tire can be corrected on the runway
+12. 3. Land with one wing low. The wing on the side of the intact tire should be held low
+13. 4. Direction should be maintained using the rudder. This should be supported by use
+14. of the brake. It is possible that the brake must be applied strongly - if necessary
+15. to the point where the wheel locks. The wide track of the landing gear will prevent
+16. the airplane from tipping over a wide speed range. There is no pronounced tendency
+17. to tip even when skidding
+---
+194
+
+END OF CHECKLIST
+
+1. 
+2. Doc. # 6.01.15-E
+3. Revision 431-Dec-2024 Page 3-39
+4. Emergency Procedures DA 40 NG AFM
+---
+195
+
+3.7.3 LANDING WITH DEFECTIVE BRAKES
+
+1. 
+2. In general, a landing on grass is recommended in order to reduce the landing run due to
+3. the greater rolling resistance
+---
+196
+1. WARNING
+2. 
+3. If sufficient time is remaining, the risk of fire in the event of a
+4. collision can be reduced as follows after a safe touch-down:
+5. - Fuel valve. . . . . . . . . . . . . . . . . . . OFF
+---
+197
+
+- ENGINE MASTER . . . . . . . . . . . . OFF
+
+1. 
+2. - Fuel pumps . . . . . . . . . . . . . . . . . OFF
+---
+198
+
+- ELECTRIC MASTER . . . . . . . . . . OFF
+
+---
+199
+
+END OF CHECKLIST
+
+1. 
+2. Page 3-40 31-Dec-2024 Doc. # 6.01.15-E
+3. Revision 4
+4. DA 40 NG AFM Emergency Procedures
+---
+200
+
+3.8 RECOVERY FROM AN UNINTENTIONAL SPIN
+
+---
+201
+1. CAUTION
+2. 
+3. Steps 1 to 4 must be carried out immediately  and
+4. simultaneously
+5. 1. POWER lever . . . . . . . . . . . . . . . . . . . . . . . . IDLE
+6. 2. Ailerons . . . . . . . . . . . . . . . . . . . . . . . . . . . . . neutral
+7. 3. Rudder. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . full deflection against direction of spin
+8. 4. Elevator (control stick). . . . . . . . . . . . . . . . . . fully forward
+9. When Rotation Has Stopped:
+10. 5. Flaps . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . UP
+11. 6. Rudder. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . neutral
+12. 7. Elevator (control stick). . . . . . . . . . . . . . . . . . pull carefully
+13. 8. Return the airplane from a descending into a normal flight attitude. Do not exceed
+14. the “never exceed speed,” vNE = 172 KIAS
+---
+202
+
+END OF CHECKLIST
+
+1. 
+2. Doc. # 6.01.15-E
+3. Revision 431-Dec-2024 Page 3-41
+4. Emergency Procedures DA 40 NG AFM
+---
+203
+
+3.9 OTHER EMERGENCIES
+
+---
+204
+
+3.9.1 ICING
+
+1. 
+2. (a) Unintentional Flight Into Icing Conditions
+3. 1. Leave the icing area (by changing altitude or turning back, in order to reach zones
+4. with a higher ambient temperature)
+5. 2. Pitot heating. . . . . . . . . . . . . . . . . . . . . . . . . . ON
+6. 3. Cabin heat . . . . . . . . . . . . . . . . . . . . . . . . . . . ON
+7. 4. Cabin air. . . . . . . . . . . . . . . . . . . . . . . . . . . . . DEFROST
+8. 5. POWER lever. . . . . . . . . . . . . . . . . . . . . . . . . increase power, in order to prevent
+9. ice build-up on the propeller blades
+10. apply power changes periodically
+11. 6. Alternate air . . . . . . . . . . . . . . . . . . . . . . . . . . OPEN
+12. 7. Emergency windows . . . . . . . . . . . . . . . . . . . open if required
+---
+205
+1. CAUTION
+2. 
+3. Ice build-up increases the stalling speed
+4. 8. ATC . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . advise if an emergency is expected
+---
+206
+1. CAUTION
+2. 
+3. When the Pitot heating fails expect loss of airspeed indication
+---
+207
+
+END OF CHECKLIST
+
+1. 
+2. Page 3-42 31-Dec-2024 Doc. # 6.01.15-E
+3. Revision 4
+4. DA 40 NG AFM Emergency Procedures
+---
+208
+
+3.9.2 SUSPICION OF CARBON MONOXIDE CONTAMINATION IN THE CABIN
+
+1. 
+2. Carbon monoxide (CO) is a gas which is developed during the combustion process. It is
+3. poisonous and without smell. Since it occurs however usually together with flue gases, it
+4. can be detected. Increased concentration of carbon monoxide in closed spaces can be
+5. fatal. The occurrence of CO in the cabin is possible only due to a defect. If a smell similar to
+6. exhaust gases is noticed in the cabin, the following measures should be taken:
+7. 1. Cabin heat. . . . . . . . . . . . . . . . . . . . . . . . . . . OFF
+8. 2. Ventilation . . . . . . . . . . . . . . . . . . . . . . . . . . . open
+9. 3. Emergency windows . . . . . . . . . . . . . . . . . . . open
+10. 4. Forward canopy. . . . . . . . . . . . . . . . . . . . . . . unlatch, push up and lock in “Cooling
+11. Gap” position
+---
+209
+1. CAUTION
+2. 
+3. The maximum demonstrated airspeed for opening the front
+4. canopy in flight is 117 KIAS
+---
+210
+1. NOTE
+2. 
+3. In case of suspicion of carbon monoxide contamination in the
+4. cabin, the front canopy may be unlatched during flight. This
+5. allows it to partially open, in order to improve ventilation. The
+6. canopy will remain open in this position. Flight characteristics
+7. will not be affected significantly
+---
+211
+
+END OF CHECKLIST
+
+1. 
+2. Doc. # 6.01.15-E
+3. Revision 431-Dec-2024 Page 3-43
+4. Emergency Procedures DA 40 NG AFM
+---
+212
+
+3.9.3 UNLOCKED DOORS
+
+1. 
+2. 1. Airspeed. . . . . . . . . . . . . . . . . . . . . . . . . . . . . reduce immediately
+3. 2. Canopy. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . check visually if closed
+4. 3. Rear door. . . . . . . . . . . . . . . . . . . . . . . . . . . . check visually if closed
+5. (a) Canopy Unlocked
+6. 4. Airspeed. . . . . . . . . . . . . . . . . . . . . . . . . . . . . below 140 KIAS
+7. 5. Land at next suitable airfield
+---
+213
+
+END OF CHECKLIST
+
+1. 
+2. (b) Rear Door Unlocked
+3. 4. Airspeed. . . . . . . . . . . . . . . . . . . . . . . . . . . . . below 140 KIAS
+4. 5. Land at the next suitable airfield
+---
+214
+1. WARNING
+2. 
+3. Do not try to lock the rear door in flight. The safety latch may
+4. disengage and the door opens. Usually this results in a separation
+5. of the door from the airplane
+---
+215
+1. NOTE
+2. 
+3. If the rear door has been lost the airplane can be safely flown to the
+4. next suitable airfield
+---
+216
+
+END OF CHECKLIST
+
+1. 
+2. Page 3-44 31-Dec-2024 Doc. # 6.01.15-E
+3. Revision 4
+4. DA 40 NG AFM Normal Operating Procedures
+---
+217
+
+CHAPTER 4A
+
+---
+218
+
+NORMAL OPERATING PROCEDURES
+
+1. 
+2. Page
+---
+219
+
+4A.1 INTRODUCTION. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4A-3
+
+---
+220
+
+4A.2 AIRSPEEDS FOR NORMAL OPERATING PROCEDURES. . . . . . . . . . . 4A-3
+
+---
+221
+
+4A.3 FLIGHT CHARACTERISTICS. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4A-4
+
+---
+222
+
+4A.4 DAILY CHECK. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4A-4
+
+---
+223
+
+4A.5 CHECKLISTS FOR NORMAL OPERATING PROCEDURES. . . . . . . . . . 4A-5
+
+---
+224
+
+4A.5.1    PRE-FLIGHT INSPECTION . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4A-5
+
+---
+225
+
+4A.5.2    BEFORE STARTING ENGINE . . . . . . . . . . . . . . . . . . . . . . . . . 4A-13
+
+---
+226
+
+4A.5.3    STARTING ENGINE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4A-15
+
+---
+227
+
+4A.5.4    BEFORE TAXIING . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4A-18
+
+---
+228
+
+4A.5.5    TAXIING . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4A-20
+
+---
+229
+
+4A.5.6    BEFORE TAKE-OFF. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4A-21
+
+---
+230
+
+4A.5.7    TAKE-OFF. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4A-27
+
+---
+231
+
+4A.5.8    CLIMB. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4A-29
+
+---
+232
+
+4A.5.9    CRUISE. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4A-30
+
+---
+233
+
+4A.5.10  FUEL TRANSFER. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4A-31
+
+---
+234
+
+4A.5.11  DESCENT. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4A-32
+
+---
+235
+
+4A.5.12  APPROACH & LANDING . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4A-33
+
+---
+236
+
+4A.5.13  GO-AROUND . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4A-35
+
+---
+237
+
+4A.5.14  AFTER LANDING . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4A-36
+
+---
+238
+
+4A.5.15  ENGINE SHUT-DOWN. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4A-37
+
+---
+239
+
+4A.5.16  POST FLIGHT INSPECTION . . . . . . . . . . . . . . . . . . . . . . . . . . 4A-38
+
+---
+240
+
+4A.5.17  PARKING . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4A-38
+
+---
+241
+
+4A.5.18  FLIGHT IN RAIN . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4A-39
+
+---
+242
+
+4A.5.19  REFUELING . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4A-39
+
+---
+243
+
+4A.5.20  FLIGHT AT HIGH ALTITUDE . . . . . . . . . . . . . . . . . . . . . . . . . . 4A-41
+
+1. 
+2. Doc. # 6.01.15-E
+3. Revision 431-Dec-2024 Page 4A-1
